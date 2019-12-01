@@ -25,13 +25,13 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 2. Clone this GitHub repository [navigation-DQN](https://github.com/hullmann/navigation-DQN)
 
-3. Install the Unity environment Udacity provides from one of the links below. You need only select the environment that matches your operating system:
+3. Udacity provides a modified Unity environment. Please download the one matching your OS from the links below:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
-Place the file in the `navigation-DQN/` folder (cloned in step 2.), and unzip (or decompress) the file. 
+Place the file in the `navigation-DQN/` folder (cloned in step 2.), and unzip the file. 
 
 ### Instructions
 
