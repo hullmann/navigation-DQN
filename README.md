@@ -12,7 +12,7 @@ Navigation Project in [Deep Reinforcement Learning Udacity Nanodegree](https://w
 
 In this project, the task is to train an agent to navigate and to collect bananas in a large, square world.  
 
-![Trained Agent][image1]
+![image1]
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. The  goal of the agent is to collect as many yellow bananas as possible in one episode while avoiding blue bananas
 
